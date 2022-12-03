@@ -6,6 +6,8 @@ This app was almost entirely written by OpenAI Codex. I made some very small cha
 
 It was intended as an experiment to see if I could make a fully functioning application written in python using AI, which worked wonders as it was already running out of the prompt result.
 
+You're welcome to try it out by downloading the executable release. Don't worry it is as safe as it can be. It seems that the AI is not interested in collecting any kind of telemetry... 😅
+
 ## Screenshot
 
 ![Screenshot](Screenshot.png)
