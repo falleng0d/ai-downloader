@@ -2,9 +2,9 @@
 
 A python file downloader with a QT GUI.
 
-This app was almost entirely written by OpenAi Codex, but I have made some changes to improve it just a little bit.
+This app was almost entirely written by OpenAI Codex. I made some very small changes to finish it out(such as adding a icon).
 
-It was intended to as a experiment to see if I could make a full functioning app in python using AI, which worked wonders as it was fully running out of the prompt result.
+It was intended as an experiment to see if I could make a fully functioning application written in python using AI, which worked wonders as it was already running out of the prompt result.
 
 ## Screenshot
 
