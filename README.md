@@ -8,10 +8,10 @@ It was intended to as a experiment to see if I could make a full functioning app
 
 ## Screenshot
 
-![Screenshot](https://imgur.com/a/i8nSrD7)
+![Screenshot](Screenshot.png)
 
 ## App icon
 
 The app icon was also made using AI. Specifically Stable Diffusion.
 
-![App icon](https://imgur.com/sk8QaIf)
+![App icon](download.png)
